@@ -1,0 +1,27 @@
+.carousel{
+    margin-bottom: 40px;
+}
+
+.carousel img {
+    width: 800px;  
+    height: 400px; 
+    object-fit: cover; 
+    margin: 0 auto; 
+  }
+
+  .card-img-top {
+    width: 355px;
+    height: 300px;
+    object-fit: cover; 
+    margin: 0 auto; 
+  }
+  
+  button {
+    margin-top: 10px;
+    background-color: #2563EB; 
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #003366; 
+  }
